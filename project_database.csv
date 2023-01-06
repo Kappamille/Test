@@ -1,0 +1,2 @@
+image_fname,nb_non_triangular_junctions,non_triangular_junctions_fname, nb_cells, centroids_fname
+8-06-700x-2-01.tif,3,non_triangular_junctions_8-06-700x-2-01.csv,108,cells_centroid-8-06-700x-2-01.csv
